@@ -1,3 +1,4 @@
+using System;
 namespace AllAboutClasses
 {
     public class Country
@@ -5,6 +6,8 @@ namespace AllAboutClasses
         public string Name { get; set; }
         public int Population { get; set; }
         public readonly double AREA = 4323.76;
+        public static readonly bool IsOnEarth = true;
+        // Instance Consructors
         //Default constructor
         public Country()
         {
@@ -20,6 +23,15 @@ namespace AllAboutClasses
             Name = name;
             Population = population;
             AREA = area;
+        }
+        // Static Constructor
+        static Country()
+        {
+           IsOnEarth = true;
+        }
+        ~Country()
+        {
+            Console.Write("I am dying..");
         }
     }
     public class Demo
