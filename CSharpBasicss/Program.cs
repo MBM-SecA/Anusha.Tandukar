@@ -1,49 +1,25 @@
 
+using System;
+using System.IO;
+using System.Linq;
 using LearnCollections;
-
- 
-
 public class Program
-
 {
-
-    static void Main()
+    static  void Main()
+    //{
+        //FileIO fileIO =  new FileIO();
+        //fileIO.LearnDirectories();
+    //}
 
     {
+      string countriesText = File.ReadAllText("Countries.txt");
+      string[] countries = countriesText.Split("\n\r");
 
-        // Collections collections = new Collections();
+      var countriesWithNIntial = countries.Select(x => x.StartsWith("N"));
 
-        // collections.LearnDictionary();
-
-        var square= new Square(20);
-
-        square.Display();   //var squareArea=square.GetArea();
-
-       
-
-        square.GetDiagonal();
-
-        // var rectangle =new Rectangle(20,30);
-
-        // var rectangleArea=rectangle.GetArea();
-
- 
-
-        // var circle= new Circle(20);
-
-        // var circleArea= circle.GetArea();
-
- 
-
- 
-
- 
-
-     
-
+      foreach (var country in countriesWithNIntial)
+      {
+        Console.WriteLine(country);
+      }
     }
-
 }
-
- 
-
