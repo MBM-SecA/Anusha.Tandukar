@@ -1,0 +1,4 @@
+C:\Users\giria\Desktop\AAA\Anusha.Tandukar\LINQ\obj\Debug\netcoreapp3.1\LINQ.csprojAssemblyReference.cache
+C:\Users\giria\Desktop\AAA\Anusha.Tandukar\LINQ\obj\Debug\netcoreapp3.1\LINQ.AssemblyInfoInputs.cache
+C:\Users\giria\Desktop\AAA\Anusha.Tandukar\LINQ\obj\Debug\netcoreapp3.1\LINQ.AssemblyInfo.cs
+C:\Users\giria\Desktop\AAA\Anusha.Tandukar\LINQ\obj\Debug\netcoreapp3.1\LINQ.csproj.CoreCompileInputs.cache
