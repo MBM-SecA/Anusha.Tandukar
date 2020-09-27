@@ -1,0 +1,4 @@
+C:\Users\giria\Desktop\AAA\Anusha.Tandukar\Async\obj\Debug\netcoreapp3.1\Async.csprojAssemblyReference.cache
+C:\Users\giria\Desktop\AAA\Anusha.Tandukar\Async\obj\Debug\netcoreapp3.1\Async.AssemblyInfoInputs.cache
+C:\Users\giria\Desktop\AAA\Anusha.Tandukar\Async\obj\Debug\netcoreapp3.1\Async.AssemblyInfo.cs
+C:\Users\giria\Desktop\AAA\Anusha.Tandukar\Async\obj\Debug\netcoreapp3.1\Async.csproj.CoreCompileInputs.cache
