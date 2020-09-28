@@ -8,6 +8,8 @@ namespace LINQ
     {
         static void Main()
         {
+            ComplexType complexType =new ComplexType();
+            complexType.LearnLINQ();
             //LINQ - Language Integrated Query
             //LINQ to objects
             int[] numbers = { 23, 34, 56, 12, 23, 89, 67, 10, 445, 32, 66, 69 };
