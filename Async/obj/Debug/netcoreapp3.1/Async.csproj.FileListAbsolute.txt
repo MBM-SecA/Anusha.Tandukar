@@ -2,3 +2,12 @@ C:\Users\giria\Desktop\AAA\Anusha.Tandukar\Async\obj\Debug\netcoreapp3.1\Async.c
 C:\Users\giria\Desktop\AAA\Anusha.Tandukar\Async\obj\Debug\netcoreapp3.1\Async.AssemblyInfoInputs.cache
 C:\Users\giria\Desktop\AAA\Anusha.Tandukar\Async\obj\Debug\netcoreapp3.1\Async.AssemblyInfo.cs
 C:\Users\giria\Desktop\AAA\Anusha.Tandukar\Async\obj\Debug\netcoreapp3.1\Async.csproj.CoreCompileInputs.cache
+C:\Users\giria\Desktop\AAA\Anusha.Tandukar\Async\bin\Debug\netcoreapp3.1\Async.exe
+C:\Users\giria\Desktop\AAA\Anusha.Tandukar\Async\bin\Debug\netcoreapp3.1\Async.deps.json
+C:\Users\giria\Desktop\AAA\Anusha.Tandukar\Async\bin\Debug\netcoreapp3.1\Async.runtimeconfig.json
+C:\Users\giria\Desktop\AAA\Anusha.Tandukar\Async\bin\Debug\netcoreapp3.1\Async.runtimeconfig.dev.json
+C:\Users\giria\Desktop\AAA\Anusha.Tandukar\Async\bin\Debug\netcoreapp3.1\Async.dll
+C:\Users\giria\Desktop\AAA\Anusha.Tandukar\Async\bin\Debug\netcoreapp3.1\Async.pdb
+C:\Users\giria\Desktop\AAA\Anusha.Tandukar\Async\obj\Debug\netcoreapp3.1\Async.dll
+C:\Users\giria\Desktop\AAA\Anusha.Tandukar\Async\obj\Debug\netcoreapp3.1\Async.pdb
+C:\Users\giria\Desktop\AAA\Anusha.Tandukar\Async\obj\Debug\netcoreapp3.1\Async.genruntimeconfig.cache
