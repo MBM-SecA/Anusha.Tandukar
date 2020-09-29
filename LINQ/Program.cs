@@ -45,10 +45,10 @@ namespace LINQ
 
              var result11 = Enumerable.Range(1,100);
              var result12 = Enumerable.Repeat("Hello World", 10);
-             foreach (var num in result12)
-             {
-                 Console.WriteLine(num);
-             }
+            // foreach (var num in result12)
+            // {
+                // Console.WriteLine(num);
+            // }
         }
     }
 }
