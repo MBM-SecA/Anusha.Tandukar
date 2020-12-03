@@ -1,14 +1,14 @@
 @model Person
- 
+
 @{
     ViewData["TitlePhrase"]="Add Employee";
-    string[] genders = {"Female", "Male", "Others"};
 }
- 
-<h3> Add New Employee</h3>
-<hr></hr>
- 
-<form asp-controller="Employee" asp-action="Add" method="POST">
+
+<h3> Edit Detail</h3>
+<hr><hr>
+
+<form asp-controller="Employee" asp-action="Edit" method="POST">
+  <input type="hidden" asp-for="Id">
   <div class="form-group">
     <label asp-for="FirstName"></label>
     <span asp-validation-for="FirstName"></span>
@@ -17,27 +17,25 @@
       <div class="form-group">
     <label asp-for="SurName"></label>
     <span asp-validation-for="SurName"></span>
- 
-    <input type="text" class="form-control" asp-for="SurName" placeholder="Enter SurName">
+
+    <input type="text" class="form-control" asp-for="SurName" placeholder="Enter Last Name">
   </div>
    <div class="form-group">
     <label asp-for="Address"></label>
     <textarea class="form-control" asp-for="Address" placeholder="Enter Address"></textarea>
   </div>
-
-  <div class="form-group">
+   <div class="form-group">
     <label asp-for="Gender"></label>
-    @foreach (var gender in genders)
-    {
-      <div class-"form-check form-check-inline">
-        <input type="radio" class="form-check-input" asp-for="Gender" id="@gender" value="@gender[0]"/>
-        <label class ="form-check-label" asp-for="@gender">@gender</label>
-      </div>
-    }
+    <input type="text" class="form-control" asp-for="Gender" placeholder="Enter Gender">
   </div>
    <div class="form-group">
     <label asp-for="Salary"></label>
     <input type="number" class="form-control" asp-for="Salary" placeholder="Enter Amount">
   </div>
-  <button type="submit" class="btn btn-primary">Save Employee </button>
+  <button type="submit" class="btn btn-warning">Update Employee </button>
 </form>
+
+
+
+
+

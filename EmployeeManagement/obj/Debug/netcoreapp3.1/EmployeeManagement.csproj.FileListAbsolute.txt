@@ -99,3 +99,5 @@ C:\Users\giria\Desktop\AAA\Anusha.Tandukar\EmployeeManagement\bin\Debug\netcorea
 C:\Users\giria\Desktop\AAA\Anusha.Tandukar\EmployeeManagement\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\giria\Desktop\AAA\Anusha.Tandukar\EmployeeManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\giria\Desktop\AAA\Anusha.Tandukar\EmployeeManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\giria\Desktop\AAA\Anusha.Tandukar\EmployeeManagement\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Delete.cshtml.g.cs
+C:\Users\giria\Desktop\AAA\Anusha.Tandukar\EmployeeManagement\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Edit.cshtml.g.cs
