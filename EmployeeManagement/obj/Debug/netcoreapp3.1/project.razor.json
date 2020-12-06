@@ -14392,6 +14392,16 @@
   "RootNamespace": "EmployeeManagement",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\giria\\Desktop\\AAA\\Anusha.Tandukar\\EmployeeManagement\\Views\\Department\\Delete.cshtml",
+      "TargetPath": "Views\\Department\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\giria\\Desktop\\AAA\\Anusha.Tandukar\\EmployeeManagement\\Views\\Department\\Add.cshtml",
+      "TargetPath": "Views\\Department\\Add.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\giria\\Desktop\\AAA\\Anusha.Tandukar\\EmployeeManagement\\Views\\Employee\\Detail.cshtml",
       "TargetPath": "Views\\Employee\\Detail.cshtml",
       "FileKind": "mvc"
@@ -14407,6 +14417,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\giria\\Desktop\\AAA\\Anusha.Tandukar\\EmployeeManagement\\Views\\Department\\Edit.cshtml",
+      "TargetPath": "Views\\Department\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\giria\\Desktop\\AAA\\Anusha.Tandukar\\EmployeeManagement\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -14414,6 +14429,11 @@
     {
       "FilePath": "c:\\Users\\giria\\Desktop\\AAA\\Anusha.Tandukar\\EmployeeManagement\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\giria\\Desktop\\AAA\\Anusha.Tandukar\\EmployeeManagement\\Views\\Department\\Index.cshtml",
+      "TargetPath": "Views\\Department\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
